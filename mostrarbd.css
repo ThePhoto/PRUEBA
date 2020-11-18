@@ -1,0 +1,41 @@
+h1{
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+table{
+	
+	width: 1000px;
+	margin: auto;
+}
+
+th{
+	border-bottom: 3px solid black;
+	text-transform: uppercase;
+}
+
+td{
+	border-bottom: 1px solid #ccc;
+	padding: 20px 20px 0;
+}
+
+.modificar{
+	margin-left: 600px;
+	margin-top: 100px;
+}
+
+.modificar a{
+	background: #000;
+	color: #fff;
+	text-decoration: none;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+.eliminado{
+	margin: auto;
+}
+
+
+
+
